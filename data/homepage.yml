@@ -48,7 +48,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "www.linkedin.com/in/marijana-andabaka-9a66831a4"
+    URL: "https://www.linkedin.com/in/marijana-andabaka-9a66831a4/"
   image:
     x: "img/who-am-i/marijana3.jpg"
     _2x: "img/who-am-i/marijana3.jpg"
@@ -61,7 +61,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "www.linkedin.com/in/marijana-andabaka-9a66831a4"
+    URL: "https://www.linkedin.com/in/marijana-andabaka-9a66831a4/"
   button2: 
     icon: 
     btnText: 
