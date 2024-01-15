@@ -1,0 +1,141 @@
+/* You can customize theme styles here */
+
+a.btn.btn-primary {
+    background-color: #D7D2CB;
+    border-radius: 12px;
+    border-color: #D7D2CB;
+    color: #858A7E;
+    
+}
+
+#header .navbar-brand span:first-child {
+    color: #858A7E;
+    font-family: Baskerville;
+    font-size: 25px;
+}
+
+#header .navbar-brand span:nth-child(2) {
+    font-family: Baskerville;
+    color: #000;
+}
+
+#header .navbar-light .navbar-nav .nav-link {
+    color: #858A7E;
+    font-family: Montserrat;
+    font-weight: 700;
+}
+
+.display-1 {
+    font-size: 36px;
+    font-weight: 800;
+    line-height: normal;
+    color: #858A7E;
+}
+
+.rad-showcase .container h1 {
+    font-family: Baskerville;
+    font-weight: 700;
+    color: #858A7E
+}
+
+.rad-showcase .container h1 span {
+    color: #000;
+}
+
+footer.footer {
+    background-color: #D7D2CB;
+}
+
+html body ::selection {
+    background-color: #858A7E;
+}
+
+.section--contact {
+    padding-bottom: 0;
+    background-image: none!important;
+
+}
+
+p {
+   font-family: Baskerville;
+   font-size: 19px!important;
+
+}
+
+h2, h3 {
+   font-family: Montserrat;
+   color:#858A7E!important;
+
+}
+
+.footer__copy {
+    color: #858A7E!important;
+}
+
+.footer .navbar-nav .nav-item .nav-link {
+    color: #858A7E!important;
+    font-family: Montserrat;
+}
+
+.header .navbar .nav-item .nav-link::after {
+    
+    background-color: #858A7E!important;
+   
+}
+
+.header  {
+     background-color: #D7D2CB!important;
+   
+}
+
+.section--border-bottom::after {
+    background-color: #D7D2CB!important;
+}
+
+.experience__company {
+    font-weight: 800!important;
+    color: #858A7E!important;
+    font-family: Baskerville;
+    font-size: 17px!important;
+}
+
+.experience__title {
+    font-family: Montserrat;
+}
+
+.experience__date {
+    font-family: Montserrat;
+}
+
+
+div.education::before {
+    display: none!important;
+}
+
+
+.testimonial__author-image {
+    display: none;
+}
+
+html body ::-moz-selection {
+    background-color: #858A7E!important;
+    
+}
+
+html body ::selection {
+    background-color: #858A7E!important;
+   
+}
+
+.testimonial__author-info span {
+    
+    color: #858A7E!important
+}
+
+
+#rad-showcase__bg img {
+    width: 100%;
+    margin-top: 90px;
+    height: 50%;
+    max-height: 721px;
+}

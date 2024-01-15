@@ -1,0 +1,257 @@
+head:
+  title: "Marijana's Data Science Portfolio"
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I’m Marijana"
+  subtitle: "Data Scientist"
+  description: "Marijana is the owner of <a target='_blank' href='https://www.andalytics.com/'>Andalytics</a>, a small business for data analysis services. I help individuals and small to medium-sized organizations in effectively managing and extracting valuable insights from their data. My objective is to popularize data science and its substantial value in decision-making processes across both research and business domains."
+  image:
+    x: "img/showcase/marijana1.jpg"
+    _2x: "img/showcase/marijana1.jpg"
+  imageMobile:
+    x: "img/showcase/marijana1.jpg"
+    _2x: "img/showcase/marijana1.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Me"
+    URL: "mailto:info@andalytics.com"
+
+  socialLinks:
+    - icon: "linkedin-line"
+      icon_pack: "icon"
+      URL: "www.linkedin.com/in/marijana-andabaka-9a66831a4"
+      
+    - icon: "google-scholar"
+      icon_pack: "ai"
+      URL: "https://scholar.google.com/citations?hl=hr&user=awNSPV8AAAAJ"
+
+    - icon: "github-line"
+      icon_pack: "icon"
+      URL: "https://github.com/andabaka"
+
+    - icon: "facebook"
+      icon-line: "ai"
+      URL: "https://web.facebook.com/profile.php?id=61555300915801&locale=hr_HR"
+
+# about
+about:
+  enable: true
+  title: "About Me"
+  content: 
+    <p class="lead">
+    With a Ph.D. in Biotechnical Sciences, specializing in Forestry, my professional journey has undergone a transformative shift into Data Science.
+    This transition stems from my passion and interest in data analysis and R programming language. Besides my forestry research background, I have entered into the domain of marketing thanks to the <a target='_blank' href='https://university.business-science.io/'>Business Science University</a>. My area of focus is applaying data science to research and business.
+    </p>
+    
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "www.linkedin.com/in/marijana-andabaka-9a66831a4"
+  image:
+    x: "img/who-am-i/user-picture3.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "With over six years of experience in research contributing significantly to various scientific projects and leveraging advanced data processing techniques. From experimental design to rigorous statistical analysis, I have been transforming raw data into meaningful insights. I have extended my expertise to marketing, providing tailored data solutions to individuals and small to medium-sized organizations. This role has allowed me to apply my extensive background in data analysis to real-world challenges, helping businesses make informed decisions."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "www.linkedin.com/in/marijana-andabaka-9a66831a4"
+  button2: 
+    icon: 
+    btnText: 
+    URL: "#"
+
+  items:
+  
+    - title: "Owner"
+      company: "Andalytics, data analysis services <a target='_blank' href='https://www.andalytics.com/'>https://www.andalytics.com</a> "
+      duration: "Oct 2023 - Present"
+      
+    - title: "Postdoctoral Associate"
+      company: "Faculty of Forestry and Wood Technology"
+      duration: "Feb 2019 - Oct 2022"
+
+    - title: "Assistant Expert"
+      company: "Faculty of Forestry and Wood Technology"
+      duration: "Sep 2016 - Jan 2019"
+
+    - title: "Store Manager"
+      company: "Kik Textilien und Non-Food"
+      duration: "Aug 2013 - Jun 2016"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+  
+    - university: "Business Science University"
+      year: "2019-2020"
+      degree: "Data science for business"
+      
+    - university: "Faculty of Forestry and Wood technology, University of Zagreb"
+      year: "2016-2019"
+      degree: "Doctor of science in the scientific field of the Biotechnical sciences, Forestry"
+
+    - university: "Faculty of Forestry and Wood technology, University of Zagreb"
+      year: "2009-2012"
+      degree: "Master of Urban Forestry, Nature Conservation and Environmental Protection"
+      
+    - university: "Faculty of Forestry and Wood technology, University of Zagreb"
+      year: "2006-2009"
+      degree: "Bachelor of Urban Forestry, Nature Conservation and Environmental Protection"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Segementing Shopping Mall Customers into Clusters"
+      description: "Customer segmentation is more than just a statistical exercise; it's a strategic imperative. By identifying distinct customer groups, businesses can craft personalized experiences, optimize marketing efforts, and tailor product offerings to meet diverse needs. This project employs advanced techniques, including K-means clustering, to uncover patterns within customer data, providing a roadmap for strategic decision-making."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Project"
+        URL: "https://rpubs.com/andabaka/1137442"
+      image:
+        x: "img/works/img1.jpg"
+        _2x: "img/works/img1.jpg"
+      is_even: true
+
+    - title: "Customer Segmentation App"
+      description: "Customer Segmentation App is a powerful tool that goes beyond traditional marketing strategies. With an interactive interface, this app reveals hidden patterns and distinct customer groups. You're not just analyzing data; you're leveraging insights to supercharge your marketing efforts and foster meaningful connections with your audience."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Application"
+        URL: "https://mandabaka.shinyapps.io/customer/"
+      image:
+        x: "img/works/customerScr.png"
+        _2x: "img/works/customerScr.png"
+      is_even: false
+      
+    - title: "Building a Recommendation System"
+      description: "A recommendation system, utilizing cutting-edge machine learning algorithms, creates a personalized experience for users. The ultimate aim is to enhance user engagement and satisfaction by presenting them with items that align with their interests. From enhancing user satisfaction to enabling data-driven decisions, recommender systems offer a strategic edge, fostering loyalty, and ensuring a competitive advantage. Embrace the power of personalization, and drive your business to new heights in the digital era."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Project"
+        URL: "https://rpubs.com/andabaka/1138304"
+      image:
+        x: "img/works/img2.jpg"
+        _2x: "img/works/img2.jpg"
+      is_even: true
+    - title: "Sales Analyzer App"
+      description: "This app provides engaging experience for exploring, visualizing, and predicting sales trends over time. Gain deep insights into historical sales data to identify patterns and trends. Utilize powerful predictive models to forecast future sales and make informed decisions. Navigate seamlessly through the app for a user-friendly data exploration experience. The app facilitates strategic planning by providing actionable insights, helping businesses set realistic goals, and aligning their efforts with long-term objectives."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Application"
+        URL: "https://mandabaka.shinyapps.io/sales_analyzer_app/"
+      image:
+        x: "img/works/analyzerApp.png"
+        _2x: "img/works/analyzerApp.png"
+      is_even: false
+# testimonial
+testimonial:
+  enable: true
+  title: "Publications"
+  items:
+    
+    - name:
+      content: "Current Status and Recent Stand Structure Dynamics in Mixed Silver Fir—European Beech Forests in Croatian Dinarides: Are There Differences between Managed and Unmanaged Forests?. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>Sustainability/MDPI</p>"
+      button:
+        URL: "https://www.mdpi.com/2071-1050/13/16/9179"
+        btnText: "Show Publication"
+        icon: ""
+    - name:
+      content: "Long-term dynamics of stand structure and regeneration in high-stocked selection fir- beech forest stand: Croatian Dinarides case study. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>iForest - Biogeosciences and Forestry</p>"
+      button:
+        URL: "https://iforest.sisef.org/abstract/?id=ifor3638-014"
+        btnText: "Show Publication"
+        icon: ""
+         
+    - name:
+      content: "Private forest owners’ sense of landownership: Motives, influential factors and landscape context. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>Landscape and Urban Planning/Elsevier</p>"
+      button:
+        URL: "https://www.sciencedirect.com/science/article/pii/S0169204621001638?via%3Dihub"
+        btnText: "Show Publication"
+        icon: ""
+        
+    - name:
+      content: "Stand Regeneration Characteristics of Beech and Fir Forests in Gorski Kotar Region. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>South-east European forestry (SEEFOR)</p>"
+      button:
+        URL: "https://www.seefor.eu/vol-7-no-2-teslak-et-al-stand-regeneration-characteristics.html"
+        btnText: "Show Publication"
+        icon: ""
+           
+        
+# contact
+contact:
+  enable: false
+  title: "Contact Marijana"
+    
+  image:
+    x: ""
+    _2x: ""
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:marijana@andalytics.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "--"
+  email:
+    title: "Email"
+    email: '<a href="mailto:marijana@andalytics.com">marijana@andalytics.com</a>'
+  address:
+    title: "Address"
+    address: "--"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

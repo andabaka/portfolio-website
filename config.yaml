@@ -1,0 +1,50 @@
+baseURL: /
+languageCode: en-us
+theme: raditian-free-hugo-theme-data-science
+params:
+  footer:
+    copyright: © Marijana Andabaka. All rights reserved.
+    site_logo:
+      _2x: color-logo.png
+      alt: Design & Code - Business Science
+      x:  color-logo.png
+  googleAnalyticsID: ''
+  logo:
+    text1: Marijana 
+    text2: Andabaka
+  plugins:
+    css:
+      - URL: custom.css
+      - URL: css/main.css
+      - URL: css/rad-icons.css
+      - URL: css/academicons/css/academicons.css
+    js:
+      - URL: js/rad-animations.js
+      - URL: js/sticky-header.js
+      - URL: js/library/fontfaceobserver.js
+  sections:
+    - showcase
+    - about
+    - client-and-work
+    - experience
+    - education
+    - testimonial
+    - contact
+    - newsletter
+menu:
+  footer:
+    - URL: '#about'
+      name: About
+      weight: 2
+    - URL: '#portfolio'
+      name: Portfolio
+      weight: 3
+    
+  header:
+    - URL: '#about'
+      name: About
+      weight: 2
+    - URL: '#portfolio'
+      name: Portfolio
+      weight: 4
+   
