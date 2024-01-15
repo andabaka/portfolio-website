@@ -50,8 +50,8 @@ about:
     btnText: "About Me"
     URL: "www.linkedin.com/in/marijana-andabaka-9a66831a4"
   image:
-    x: "img/who-am-i/user-picture3.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/marijana3.jpg"
+    _2x: "img/who-am-i/marijana3.jpg"
 
 # experience
 experience:
