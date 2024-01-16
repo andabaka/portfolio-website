@@ -21,7 +21,7 @@ showcase:
   socialLinks:
     - icon: "linkedin-line"
       icon_pack: "icon"
-      URL: "www.linkedin.com/in/marijana-andabaka-9a66831a4"
+      URL: "https://www.linkedin.com/in/marijana-andabaka-9a66831a4/"
       
     - icon: "google-scholar"
       icon_pack: "ai"
@@ -42,7 +42,7 @@ about:
   content: 
     <p class="lead">
     With a Ph.D. in Biotechnical Sciences, specializing in Forestry, my professional journey has undergone a transformative shift into Data Science.
-    This transition stems from my passion and interest in data analysis and R programming language. Besides my forestry research background, I have entered into the domain of marketing thanks to the <a target='_blank' href='https://university.business-science.io/'>Business Science University</a>. My area of focus is applaying data science to research and business.
+    This transition stems from my passion and interest in data analysis and R programming language. Besides my forestry research background, I have entered into the domain of marketing thanks to the <a target='_blank' href='https://university.business-science.io/'>Business Science University</a>. My area of focus is applying data science to research and business.
     </p>
     
   button:
@@ -147,7 +147,7 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Segementing Shopping Mall Customers into Clusters"
+    - title: "Segmenting Shopping Mall Customers into Clusters"
       description: "Customer segmentation is more than just a statistical exercise; it's a strategic imperative. By identifying distinct customer groups, businesses can craft personalized experiences, optimize marketing efforts, and tailor product offerings to meet diverse needs. This project employs advanced techniques, including K-means clustering, to uncover patterns within customer data, providing a roadmap for strategic decision-making."
       button:
         icon: "icon-arrow-right"
