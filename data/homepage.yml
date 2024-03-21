@@ -163,7 +163,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "See Application"
-        URL: "https://mandabaka.shinyapps.io/customer/"
+        URL: "https://mandabaka.shinyapps.io/customer_app/"
       image:
         x: "img/works/customerScr.png"
         _2x: "img/works/customerScr.png"
@@ -184,7 +184,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "See Application"
-        URL: "https://mandabaka.shinyapps.io/sales_analyzer_app/"
+        URL: "https://mandabaka.shinyapps.io/sales_analyzer/"
       image:
         x: "img/works/analyzerApp.png"
         _2x: "img/works/analyzerApp.png"
