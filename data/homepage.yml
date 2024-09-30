@@ -148,7 +148,7 @@ client_and_work:
 
   works:
     - title: "Shiny Pollen App - explore pollen levels for any location and manage your allergies"
-      description: "Pollen App is a comprehensive allergy management tool designed to help users monitor pollen levels, track their allergy symptoms, and make informed decisions about their outdoor activities. This Shiny application provides real-time and forecasted pollen data for locations worldwide, offering personalized health recommendations based on current pollen levels."
+      description: "Login credentials: user2, pass2. Pollen App is a comprehensive allergy management tool designed to help users monitor pollen levels, track their allergy symptoms, and make informed decisions about their outdoor activities. This Shiny application provides real-time and forecasted pollen data for locations worldwide, offering personalized health recommendations based on current pollen levels."
       button:
         icon: "icon-arrow-right"
         btnText: "See App"
