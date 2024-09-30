@@ -147,6 +147,17 @@ client_and_work:
       alt: "Ztos"
 
   works:
+    - title: "Shiny Pollen App - explore pollen levels for any location and manage your allergies"
+      description: "Pollen App is a comprehensive allergy management tool designed to help users monitor pollen levels, track their allergy symptoms, and make informed decisions about their outdoor activities. This Shiny application provides real-time and forecasted pollen data for locations worldwide, offering personalized health recommendations based on current pollen levels."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See App"
+        URL: "https://mandabaka.shinyapps.io/pollen_app/"
+      image:
+        x: "img/works/pollen.png"
+        _2x: "img/works/pollen.png"
+      is_even: true
+  
     - title: "Segmenting Shopping Mall Customers into Clusters"
       description: "Customer segmentation is more than just a statistical exercise; it's a strategic imperative. By identifying distinct customer groups, businesses can craft personalized experiences, optimize marketing efforts, and tailor product offerings to meet diverse needs. This project employs advanced techniques, including K-means clustering, to uncover patterns within customer data, providing a roadmap for strategic decision-making."
       button:
