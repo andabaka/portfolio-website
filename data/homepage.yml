@@ -157,6 +157,18 @@ client_and_work:
         x: "img/works/pollen.png"
         _2x: "img/works/pollen.png"
       is_even: true
+      
+      
+    - title: "Interactive Quarto Dasboard - Earthquakes in Croatia from 1990"
+      description: "This dashboard displays earthquake data for Croatia from 1990 to the present. The data is sourced from the USGS (United States Geological Survey) database, which is updated daily at 9:00 AM UTC. Dashboard allows filtering of data by date and magnitude, displays earthquakes on an interactive map, and provides detailed information in a tabular format. For the most accurate and up-to-date information on seismic activity in Croatia, it is recommended to consult local seismological services."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See App"
+        URL: "https://andabaka.github.io/earthquakes/earthquakes.html"
+      image:
+        x: "img/works/quakes.png"
+        _2x: "img/works/quakes.png"
+      is_even: true
   
     - title: "Segmenting Shopping Mall Customers into Clusters"
       description: "Customer segmentation is more than just a statistical exercise; it's a strategic imperative. By identifying distinct customer groups, businesses can craft personalized experiences, optimize marketing efforts, and tailor product offerings to meet diverse needs. This project employs advanced techniques, including K-means clustering, to uncover patterns within customer data, providing a roadmap for strategic decision-making."
