@@ -142,7 +142,7 @@ client_and_work:
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
       
- works:
+  works:
     - title: "HR Analytics Dashboard"
       description: "This dashboard built with Tableau empowers HR professionals and leadership to make data-driven decisions, offering insights into hiring trends, salary distributions, and potential gender pay gaps. It optimizes recruitment strategies and enhances performance management through educational and geographical data analysis. Future enhancements aim to integrate predictive analytics for employee churn, include engagement metrics, and develop custom alerts for critical HR KPIs, further solidifying its role as a comprehensive HR management tool."
       button:
