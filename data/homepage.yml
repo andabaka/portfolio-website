@@ -4,8 +4,8 @@ head:
 showcase:
   enable: true
   title: "Hi, I’m Marijana"
-  subtitle: "Data Scientist"
-  description: "Marijana is the owner of <a target='_blank' href='https://www.andalytics.com/'>Andalytics</a>, a small business for data analysis services. I help individuals and small to medium-sized organizations in effectively managing and extracting valuable insights from their data. My objective is to popularize data science and its substantial value in decision-making processes across both research and business domains."
+  subtitle: "Data Analyst and Scientist"
+  description: "As a data analysis expert, I specialize in helping individuals and small to medium-sized organizations effectively manage and extract valuable insights from their data. My passion lies in data science, and I'm committed to demonstrating its substantial value in decision-making processes across both research and business domains. My work focuses on bridging the gap between complex data and actionable insights, making data science more accessible and applicable to a wide range of clients. I strive to popularize data-driven approaches, empowering organizations to harness the full potential of their information for strategic growth and innovation."
   image:
     x: "img/showcase/marijana1.jpg"
     _2x: "img/showcase/marijana1.jpg"
@@ -31,10 +31,6 @@ showcase:
       icon_pack: "icon"
       URL: "https://github.com/andabaka"
 
-    - icon: "facebook"
-      icon-line: "ai"
-      URL: "https://web.facebook.com/profile.php?id=61555300915801&locale=hr_HR"
-
 # about
 about:
   enable: true
@@ -42,7 +38,7 @@ about:
   content: 
     <p class="lead">
     With a Ph.D. in Biotechnical Sciences, specializing in Forestry, my professional journey has undergone a transformative shift into Data Science.
-    This transition stems from my passion and interest in data analysis and R programming language. Besides my forestry research background, I have entered into the domain of marketing thanks to the <a target='_blank' href='https://university.business-science.io/'>Business Science University</a>. My area of focus is applying data science to research and business.
+    This transition stems from my passion and interest in data analysis and R programming language. Besides my forestry research background, I have entered into the domain of marketing analytics thanks to the <a target='_blank' href='https://university.business-science.io/'>Business Science University</a>. My area of focus is applying data science to research and business.
     </p>
     
   button:
@@ -69,7 +65,7 @@ experience:
 
   items:
   
-    - title: "Owner"
+    - title: "Self-employed"
       company: "Andalytics, data analysis services <a target='_blank' href='https://www.andalytics.com/'>https://www.andalytics.com</a> "
       duration: "Oct 2023 - Present"
       
@@ -145,6 +141,18 @@ client_and_work:
         x: "img/clients/ztos.png"
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
+      
+ works:
+    - title: "HR Analytics Dashboard"
+      description: "This dashboard built with Tableau empowers HR professionals and leadership to make data-driven decisions, offering insights into hiring trends, salary distributions, and potential gender pay gaps. It optimizes recruitment strategies and enhances performance management through educational and geographical data analysis. Future enhancements aim to integrate predictive analytics for employee churn, include engagement metrics, and develop custom alerts for critical HR KPIs, further solidifying its role as a comprehensive HR management tool."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Dashboard"
+        URL: "https://public.tableau.com/app/profile/marijana.andabaka/viz/HRDashboard_17283895995850/HRSummary"
+      image:
+        x: "img/works/dashboard.jpeg"
+        _2x: "img/works/dashboard.jpeg"
+      is_even: false
 
   works:
     - title: "Shiny Pollen App - explore pollen levels for any location and manage your allergies"
