@@ -143,15 +143,15 @@ client_and_work:
       alt: "Ztos"
       
   works:
-    - title: "HR Analytics Dashboard"
-      description: "This dashboard built with Tableau empowers HR professionals and leadership to make data-driven decisions, offering insights into hiring trends and salary distributions. It optimizes recruitment strategies and enhances performance management through educational and geographical data analysis. Future enhancements aim to integrate predictive analytics for employee churn, include engagement metrics, and develop custom alerts for critical HR KPIs, further solidifying its role as a comprehensive HR management tool."
+    - title: "NetCDF Files in Forest Research"
+      description: "A comprehensive guide to working with NetCDF files in forest research using R. This tutorial covers everything from understanding NetCDF structure to practical applications with CRU climate data, including detailed code examples for data extraction, processing, and climate data interpolation techniques specifically designed for forest research applications."
       button:
         icon: "icon-arrow-right"
-        btnText: "See Dashboard"
-        URL: "https://public.tableau.com/app/profile/marijana.andabaka/viz/HRDashboard_17283895995850/HRSummary"
+        btnText: "See Project"
+        URL: "https://rpubs.com/andabaka/1264452"
       image:
-        x: "img/works/dashboard.png"
-        _2x: "img/works/dashboard.png"
+        x: "img/works/netcdf.jpg"
+        _2x: "img/works/netcdf.jpg"
       is_even: false
 
   
