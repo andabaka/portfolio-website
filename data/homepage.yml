@@ -1,5 +1,4 @@
-# head
-title: "Marijana's Data Science Portfolio"
+title: "Marijana's Data Analysis Portfolio"
 
 # showcase
 showcase:
@@ -21,7 +20,6 @@ showcase:
     - icon: "linkedin-line"
       icon_pack: "icon"
       URL: "https://www.linkedin.com/in/marijana-andabaka-9a66831a4/"
-      
     - icon: "google-scholar"
       icon_pack: "ai"
       URL: "https://scholar.google.com/citations?hl=hr&user=awNSPV8AAAAJ"
@@ -37,7 +35,6 @@ about:
     <p class="lead">
     With a Ph.D. in Biotechnical Sciences specializing in Forestry, I combine academic research expertise with advanced data science skills. My work focuses on automating research workflows and processing complex environmental datasets. Through my company Andalytics, I help research institutions transform their data processing from months to hours while maintaining scientific accuracy. My expertise spans R programming, forest ecosystems analysis, spatial data integration, and climate data processing.
     </p>
-    
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -55,19 +52,17 @@ experience:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/marijana-andabaka-9a66831a4/"
-  button2: 
-    icon: 
-    btnText: 
+  button2:
+    icon:
+    btnText:
     URL: "#"
   items:
     - title: "Founder"
       company: "Andalytics, Data Analysis Services <a target='_blank' href='https://andalytics.com/en/'>https://andalytics.com/en/</a>"
       duration: "Oct 2023 - Present"
-      
     - title: "Postdoctoral Associate"
       company: "Faculty of Forestry and Wood Technology"
       duration: "Feb 2019 - Oct 2022"
-      
     - title: "Assistant Expert"
       company: "Faculty of Forestry and Wood Technology"
       duration: "Sep 2016 - Jan 2019"
@@ -77,62 +72,49 @@ education:
   enable: true
   title: "Education"
   items:
-  
     - university: "Business Science University"
       year: "2019-2020"
       degree: "Data science for business"
-      
     - university: "Faculty of Forestry and Wood technology, University of Zagreb"
       year: "2016-2019"
       degree: "Doctor of science in the scientific field of the Biotechnical sciences, Forestry"
-
     - university: "Faculty of Forestry and Wood technology, University of Zagreb"
       year: "2009-2012"
       degree: "Master of Urban Forestry, Nature Conservation and Environmental Protection"
-      
     - university: "Faculty of Forestry and Wood technology, University of Zagreb"
       year: "2006-2009"
       degree: "Bachelor of Urban Forestry, Nature Conservation and Environmental Protection"
-
-
 
 # Client & Work
 client_and_work:
   title: "Portfolio"
   enable: true
-  
   enable_clients: false
   clients:
     - logo:
         x: "img/clients/asgardia.png"
         _2x: "img/clients/asgardia@2x.png"
       alt: "Asgardia"
-
     - logo:
         x: "img/clients/earth-2.png"
         _2x: "img/clients/earth-2@2x.png"
       alt: "Earth 2.0"
-
     - logo:
         x: "img/clients/goldline.png"
         _2x: "img/clients/goldline@2x.png"
       alt: "Goldline"
-
     - logo:
         x: "img/clients/kanba.png"
         _2x: "img/clients/kanba@2x.png"
       alt: "Kanba"
-
     - logo:
         x: "img/clients/zoo-tv.png"
         _2x: "img/clients/zoo-tv@2x.png"
       alt: "Zoo"
-
     - logo:
         x: "img/clients/ztos.png"
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
-      
   works:
     - title: "NetCDF Files in Forest Research"
       description: "A comprehensive guide to working with NetCDF files in forest research using R. This tutorial covers everything from understanding NetCDF structure to practical applications with CRU climate data, including detailed code examples for data extraction, processing, and climate data interpolation techniques specifically designed for forest research applications."
@@ -144,7 +126,6 @@ client_and_work:
         x: "img/works/netcdf.jpg"
         _2x: "img/works/netcdf.jpg"
       is_even: false
-
     - title: "Introduction to Google Earth Engine: A Powerful Tool for Modern Forest Science"
       description: "Learn how to leverage Google Earth Engine for forest research through practical examples, from basic data access to advanced analysis using R and rgee package."
       button:
@@ -155,7 +136,6 @@ client_and_work:
         x: "img/works/gee.jpg"
         _2x: "img/works/gee.jpg"
       is_even: true
-  
     - title: "Shiny Pollen App - explore pollen levels for any location and manage your allergies"
       description: "Login credentials: user2, pass2. Pollen App is a comprehensive allergy management tool designed to help users monitor pollen levels, track their allergy symptoms, and make informed decisions about their outdoor activities. This Shiny application provides real-time and forecasted pollen data for locations worldwide, offering personalized health recommendations based on current pollen levels."
       button:
@@ -166,8 +146,6 @@ client_and_work:
         x: "img/works/pollen.png"
         _2x: "img/works/pollen.png"
       is_even: true
-      
-      
     - title: "Interactive Quarto Dasboard - Earthquakes in Croatia from 1990"
       description: "This dashboard displays earthquake data for Croatia from 1990 to the present. The data is sourced from the USGS (United States Geological Survey) database, which is updated daily at 9:00 AM UTC. Dashboard allows filtering of data by date and magnitude, displays earthquakes on an interactive map, and provides detailed information in a tabular format. For the most accurate and up-to-date information on seismic activity in Croatia, it is recommended to consult local seismological services."
       button:
@@ -178,13 +156,12 @@ client_and_work:
         x: "img/works/quakes.png"
         _2x: "img/works/quakes.png"
       is_even: false
-  
+
 # testimonial
 testimonial:
   enable: true
   title: "Publications"
   items:
-    
     - name:
       content: "Current Status and Recent Stand Structure Dynamics in Mixed Silver Fir—European Beech Forests in Croatian Dinarides: Are There Differences between Managed and Unmanaged Forests?. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>Sustainability/MDPI</p>"
       button:
@@ -197,36 +174,30 @@ testimonial:
         URL: "https://iforest.sisef.org/abstract/?id=ifor3638-014"
         btnText: "Show Publication"
         icon: ""
-         
     - name:
-      content: "Private forest owners’ sense of landownership: Motives, influential factors and landscape context. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>Landscape and Urban Planning/Elsevier</p>"
+      content: "Private forest owners' sense of landownership: Motives, influential factors and landscape context. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>Landscape and Urban Planning/Elsevier</p>"
       button:
         URL: "https://www.sciencedirect.com/science/article/pii/S0169204621001638?via%3Dihub"
         btnText: "Show Publication"
         icon: ""
-        
     - name:
       content: "Stand Regeneration Characteristics of Beech and Fir Forests in Gorski Kotar Region. <p style=font-family:Montserrat;color:#858A7E;font-weight:800>South-east European forestry (SEEFOR)</p>"
       button:
         URL: "https://www.seefor.eu/vol-7-no-2-teslak-et-al-stand-regeneration-characteristics.html"
         btnText: "Show Publication"
         icon: ""
-           
-        
+
 # contact
 contact:
   enable: false
   title: "Contact Marijana"
-    
   image:
     x: ""
     _2x: ""
-    
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
     btnAction: 'mailto:marijana@andalytics.com'
-    
   phone:
     title: "Phone Number"
     number: "--"
@@ -236,7 +207,6 @@ contact:
   address:
     title: "Address"
     address: "--"
-  
 
 # newsletter
 newsletter:
