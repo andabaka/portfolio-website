@@ -47,7 +47,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "With 7 years of academic research experience and a strong foundation in data science, I specialize in transforming complex research data processing challenges into efficient, automated workflows. My unique combination of forestry expertise and technical skills allows me to bridge the gap between scientific research requirements and modern data analysis solutions."
+  description: "With 7 years of academic research experience and a strong foundation in data analysis, I specialize in transforming complex research data processing challenges into efficient, automated workflows. My unique combination of forestry expertise and technical skills allows me to bridge the gap between scientific research requirements and modern data analysis solutions."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -72,9 +72,6 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Business Science University"
-      year: "2019-2020"
-      degree: "Data science for business"
     - university: "Faculty of Forestry and Wood technology, University of Zagreb"
       year: "2016-2019"
       degree: "Doctor of science in the scientific field of the Biotechnical sciences, Forestry"
