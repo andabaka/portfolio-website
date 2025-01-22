@@ -1,23 +1,22 @@
-head:
-  title: "Marijana's Data Science Portfolio"
+# head
+title: "Marijana's Data Science Portfolio"
+
 # showcase
 showcase:
   enable: true
-  title: "Hi, I’m Marijana"
-  subtitle: "Data Analyst and Scientist"
-  description: "As a data analysis expert, I specialize in helping individuals and small to medium-sized organizations effectively manage and extract valuable insights from their data. My passion lies in data science, and I'm committed to demonstrating its substantial value in decision-making processes across both research and business domains. My work focuses on bridging the gap between complex data and actionable insights, making data science more accessible and applicable to a wide range of clients. I strive to popularize data-driven approaches, empowering organizations to harness the full potential of their information for strategic growth and innovation."
+  title: "Hi, I'm Marijana"
+  subtitle: "Research Data Analysis Specialist"
+  description: "I specialize in transforming complex research data into actionable insights, with particular expertise in forest science and environmental data analysis. My focus is on helping research institutions and organizations automate their data processing workflows while maintaining scientific rigor. By combining technical expertise with research experience, I bridge the gap between raw data and meaningful discoveries, making advanced data analysis accessible and impactful."
   image:
     x: "img/showcase/marijana1.jpg"
     _2x: "img/showcase/marijana1.jpg"
   imageMobile:
     x: "img/showcase/marijana1.jpg"
     _2x: "img/showcase/marijana1.jpg"
-
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Me"
-    URL: "mailto:info@andalytics.com"
-
+    URL: "mailto:marijana@andalytics.com"
   socialLinks:
     - icon: "linkedin-line"
       icon_pack: "icon"
@@ -26,7 +25,6 @@ showcase:
     - icon: "google-scholar"
       icon_pack: "ai"
       URL: "https://scholar.google.com/citations?hl=hr&user=awNSPV8AAAAJ"
-
     - icon: "github-line"
       icon_pack: "icon"
       URL: "https://github.com/andabaka"
@@ -37,8 +35,7 @@ about:
   title: "About Me"
   content: 
     <p class="lead">
-    With a Ph.D. in Biotechnical Sciences, specializing in Forestry, my professional journey has undergone a transformative shift into Data Science.
-    This transition stems from my passion and interest in data analysis and R programming language. Besides my academic research background, I have entered into the domain of business analytics thanks to the <a target='_blank' href='https://university.business-science.io/'>Business Science University</a>. My area of focus is applying data science to research and business.
+    With a Ph.D. in Biotechnical Sciences specializing in Forestry, I combine academic research expertise with advanced data science skills. My work focuses on automating research workflows and processing complex environmental datasets. Through my company Andalytics, I help research institutions transform their data processing from months to hours while maintaining scientific accuracy. My expertise spans R programming, forest ecosystems analysis, spatial data integration, and climate data processing.
     </p>
     
   button:
@@ -53,7 +50,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "With over six years of experience in research contributing significantly to various scientific projects and leveraging advanced data processing techniques. From experimental design to rigorous statistical analysis, I have been transforming raw data into meaningful insights. I have extended my expertise to marketing, providing tailored data solutions to individuals and small to medium-sized organizations. This role has allowed me to apply my extensive background in data analysis to real-world challenges, helping businesses make informed decisions."
+  description: "With 7 years of academic research experience and a strong foundation in data science, I specialize in transforming complex research data processing challenges into efficient, automated workflows. My unique combination of forestry expertise and technical skills allows me to bridge the gap between scientific research requirements and modern data analysis solutions."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -62,24 +59,18 @@ experience:
     icon: 
     btnText: 
     URL: "#"
-
   items:
-  
-    - title: "Self-employed"
-      company: "Andalytics, data analysis services <a target='_blank' href='https://www.andalytics.com/'>https://www.andalytics.com</a> "
+    - title: "Founder"
+      company: "Andalytics, Data Analysis Services <a target='_blank' href='https://andalytics.com/en/'>https://andalytics.com/en/</a>"
       duration: "Oct 2023 - Present"
       
     - title: "Postdoctoral Associate"
       company: "Faculty of Forestry and Wood Technology"
       duration: "Feb 2019 - Oct 2022"
-
+      
     - title: "Assistant Expert"
       company: "Faculty of Forestry and Wood Technology"
       duration: "Sep 2016 - Jan 2019"
-
-    - title: "Store Manager"
-      company: "Kik Textilien und Non-Food"
-      duration: "Aug 2013 - Jun 2016"
 
 # education
 education:
@@ -154,6 +145,16 @@ client_and_work:
         _2x: "img/works/netcdf.jpg"
       is_even: false
 
+    - title: "Introduction to Google Earth Engine: A Powerful Tool for Modern Forest Science"
+      description: "Learn how to leverage Google Earth Engine for forest research through practical examples, from basic data access to advanced analysis using R and rgee package."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Project"
+        URL: "https://rpubs.com/andabaka/1264684"
+      image:
+        x: "img/works/gee.jpg"
+        _2x: "img/works/gee.jpg"
+      is_even: true
   
     - title: "Shiny Pollen App - explore pollen levels for any location and manage your allergies"
       description: "Login credentials: user2, pass2. Pollen App is a comprehensive allergy management tool designed to help users monitor pollen levels, track their allergy symptoms, and make informed decisions about their outdoor activities. This Shiny application provides real-time and forecasted pollen data for locations worldwide, offering personalized health recommendations based on current pollen levels."
@@ -178,48 +179,6 @@ client_and_work:
         _2x: "img/works/quakes.png"
       is_even: false
   
-    - title: "Segmenting Shopping Mall Customers into Clusters"
-      description: "Customer segmentation is more than just a statistical exercise; it's a strategic imperative. By identifying distinct customer groups, businesses can craft personalized experiences, optimize marketing efforts, and tailor product offerings to meet diverse needs. This project employs advanced techniques, including K-means clustering, to uncover patterns within customer data, providing a roadmap for strategic decision-making."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "See Project"
-        URL: "https://rpubs.com/andabaka/1137442"
-      image:
-        x: "img/works/img1.jpg"
-        _2x: "img/works/img1.jpg"
-      is_even: true
-
-    - title: "Customer Segmentation App"
-      description: "Customer Segmentation App is a powerful tool that goes beyond traditional marketing strategies. With an interactive interface, this app reveals hidden patterns and distinct customer groups. You're not just analyzing data; you're leveraging insights to supercharge your marketing efforts and foster meaningful connections with your audience."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "See Application"
-        URL: "https://mandabaka.shinyapps.io/customer_app/"
-      image:
-        x: "img/works/customerScr.png"
-        _2x: "img/works/customerScr.png"
-      is_even: false
-      
-    - title: "Building a Recommendation System"
-      description: "A recommendation system, utilizing cutting-edge machine learning algorithms, creates a personalized experience for users. The ultimate aim is to enhance user engagement and satisfaction by presenting them with items that align with their interests. From enhancing user satisfaction to enabling data-driven decisions, recommender systems offer a strategic edge, fostering loyalty, and ensuring a competitive advantage. Embrace the power of personalization, and drive your business to new heights in the digital era."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "See Project"
-        URL: "https://rpubs.com/andabaka/1138304"
-      image:
-        x: "img/works/img2.jpg"
-        _2x: "img/works/img2.jpg"
-      is_even: true
-    - title: "Sales Analyzer App"
-      description: "This app provides engaging experience for exploring, visualizing, and predicting sales trends over time. Gain deep insights into historical sales data to identify patterns and trends. Utilize powerful predictive models to forecast future sales and make informed decisions. Navigate seamlessly through the app for a user-friendly data exploration experience. The app facilitates strategic planning by providing actionable insights, helping businesses set realistic goals, and aligning their efforts with long-term objectives."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "See Application"
-        URL: "https://mandabaka.shinyapps.io/sales_analyzer/"
-      image:
-        x: "img/works/analyzerApp.png"
-        _2x: "img/works/analyzerApp.png"
-      is_even: false
 # testimonial
 testimonial:
   enable: true
