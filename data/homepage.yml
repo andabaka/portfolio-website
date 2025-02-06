@@ -33,7 +33,7 @@ about:
   title: "About Me"
   content: 
     <p class="lead">
-    With a Ph.D. in Biotechnical Sciences specializing in Forestry, I combine academic research expertise with advanced data science skills. My work focuses on automating research workflows and processing complex environmental datasets. Through my company Andalytics, I help research institutions transform their data processing from months to hours while maintaining scientific accuracy. My expertise spans R programming, forest ecosystems analysis, spatial data integration, and climate data processing.
+    With a Ph.D. in Biotechnical Sciences specializing in Forestry, I combine academic research expertise with advanced data science skills. My work focuses on automating research workflows and processing complex environmental datasets. Through my company Andalytics, I help research institutions transform their data processing from months to hours while maintaining scientific accuracy. My expertise spans R programming, forestry research analysis, spatial data integration, and climate data processing.
     </p>
   button:
     icon: "icon-smile-fill"
