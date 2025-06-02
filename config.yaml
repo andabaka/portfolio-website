@@ -18,11 +18,11 @@ params:
       - URL: css/main.css
       - URL: css/rad-icons.css
       - URL: css/academicons/css/academicons.css
+      - URL: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
     js:
       - URL: js/rad-animations.js
       - URL: js/sticky-header.js
       - URL: js/library/fontfaceobserver.js
-      - URL: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
   sections:
     - showcase
     - about
