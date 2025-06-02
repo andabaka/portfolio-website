@@ -4,8 +4,8 @@ title: "Marijana's Data Analysis Portfolio"
 showcase:
   enable: true
   title: "Hi, I'm Marijana"
-  subtitle: "Research Data Analysis Specialist"
-  description: "I specialize in transforming complex research data into actionable insights, with particular expertise in forest science and environmental data analysis. My focus is on helping research institutions and organizations automate their data processing workflows while maintaining scientific rigor. By combining technical expertise with research experience, I bridge the gap between raw data and meaningful discoveries, making advanced data analysis accessible and impactful."
+  subtitle: "Forest Data Scientist"
+  description: "I specialize in transforming complex forest and environmental datasets into scientific insights through advanced statistical analysis and R programming. With a Ph.D. in Forestry and 7+ years of research experience, I help institutions extract maximum value from their data while maintaining scientific rigor. Through <a href='https://andalytics.com/en/' target='_blank'>Andalytics</a>, I bridge the gap between sophisticated research questions and analytical solutions."
   image:
     x: "img/showcase/marijana1.jpg"
     _2x: "img/showcase/marijana1.jpg"
@@ -26,6 +26,9 @@ showcase:
     - icon: "github-line"
       icon_pack: "icon"
       URL: "https://github.com/andabaka"
+    - icon: "global-line"
+      icon_pack: "icon"
+      URL: "https://andalytics.com/en/" 
 
 # about
 about:
