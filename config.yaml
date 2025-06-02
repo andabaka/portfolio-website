@@ -22,6 +22,7 @@ params:
       - URL: js/rad-animations.js
       - URL: js/sticky-header.js
       - URL: js/library/fontfaceobserver.js
+      - URL: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css
   sections:
     - showcase
     - about
