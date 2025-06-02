@@ -142,5 +142,6 @@ html body ::selection {
 
 .icon-global-line:before { 
   content: '🌐'; 
+  font-family: inherit !important;
   color: #858A7E !important;
 }

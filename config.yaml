@@ -18,6 +18,7 @@ params:
       - URL: css/main.css
       - URL: css/rad-icons.css
       - URL: css/academicons/css/academicons.css
+      - URL: css/fontawesome/css/all.min.css
     js:
       - URL: js/rad-animations.js
       - URL: js/sticky-header.js
