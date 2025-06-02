@@ -26,8 +26,8 @@ showcase:
     - icon: "github-line"
       icon_pack: "icon"
       URL: "https://github.com/andabaka"
-    - icon: "ri-global-line"
-      icon_pack: "icon"
+    - icon: "fas fa-globe"  
+      icon_pack: "fab"
       URL: "https://andalytics.com/en/" 
 
 # about
