@@ -143,9 +143,9 @@ client_and_work:
         btnText: "See App"
         URL: "https://mandabaka.shinyapps.io/EU-Trees4F-app/"
       image:
-        x: "img/works/trees.jpg"
-        _2x: "img/works/trees.jpg"
-      is_even: true
+        x: "img/works/trees.jpeg"
+        _2x: "img/works/trees.jpeg"
+      is_even: false
     - title: "Interactive Quarto Dasboard - Earthquakes in Croatia from 1990"
       description: "This dashboard displays earthquake data for Croatia from 1990 to the present. The data is sourced from the USGS (United States Geological Survey) database, which is updated daily at 9:00 AM UTC. Dashboard allows filtering of data by date and magnitude, displays earthquakes on an interactive map, and provides detailed information in a tabular format. For the most accurate and up-to-date information on seismic activity in Croatia, it is recommended to consult local seismological services."
       button:
