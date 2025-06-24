@@ -134,8 +134,8 @@ client_and_work:
       btnText: "See Project"
       URL: "https://andabaka.github.io/tree_canopy_height/zagreb-interactive-tree-canopy.html"
     image:
-      x: "img/works/canopy.jpg"
-      _2x: "img/works/canopy.jpg"
+      x: "img/works/canopy.jpeg"
+      _2x: "img/works/canopy.jpeg"
     is_even: true
 
   - title: "Interactive Quarto Dashboard - Earthquakes in Croatia from 1990"
