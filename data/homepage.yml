@@ -123,8 +123,8 @@ client_and_work:
       btnText: "See App"
       URL: "https://mandabaka.shinyapps.io/EU-Trees4F-app/"
     image:
-      x: "img/works/trees.jpeg"
-      _2x: "img/works/trees.jpeg"
+      x: "img/works/trees.png"
+      _2x: "img/works/trees.png"
     is_even: false
 
   - title: "Zagreb Tree Height Canopy Analysis - Urban Forest Assessment"
