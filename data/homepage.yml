@@ -86,6 +86,7 @@ education:
       degree: "Bachelor of Urban Forestry, Nature Conservation and Environmental Protection"
 
 # Client & Work
+# Client & Work
 client_and_work:
   title: "Portfolio"
   enable: true
@@ -116,60 +117,60 @@ client_and_work:
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
   works:
-  - title: "EU-Trees4F Interactive App - European Tree Species Climate Suitability Visualization"
-    description: "An interactive Shiny application for visualizing European tree species climate suitability based on the EU-Trees4F dataset. Explore climate projections across different time periods and scenarios, compare habitat suitability maps, and analyze country-level statistics for 7 major European tree species including European beech, oak species, silver fir, and Norway spruce."
-    button:
-      icon: "icon-arrow-right"
-      btnText: "See App"
-      URL: "https://mandabaka.shinyapps.io/EU-Trees4F-app/"
-    image:
-      x: "img/works/trees.png"
-      _2x: "img/works/trees.png"
-    is_even: false
+    - title: "EU-Trees4F Interactive App - European Tree Species Climate Suitability Visualization"
+      description: "An interactive Shiny application for visualizing European tree species climate suitability based on the EU-Trees4F dataset. Explore climate projections across different time periods and scenarios, compare habitat suitability maps, and analyze country-level statistics for 7 major European tree species including European beech, oak species, silver fir, and Norway spruce."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See App"
+        URL: "https://mandabaka.shinyapps.io/EU-Trees4F-app/"
+      image:
+        x: "img/works/trees.png"
+        _2x: "img/works/trees.png"
+      is_even: false
 
-  - title: "Zagreb Tree Height Canopy Analysis - Urban Forest Assessment"
-    description: "An R-based analysis of Zagreb's urban trees using high-resolution canopy data from Meta/WRI. This project analyzes tree cover distribution across administrative districts, calculates urban cooling potential, and presents results in an interactive Leaflet map. The analysis reveals significant disparities in canopy coverage and provides insights into urban heat island mitigation potential."
-    button:
-      icon: "icon-arrow-right"
-      btnText: "See Project"
-      URL: "https://andabaka.github.io/tree_canopy_height/zagreb-interactive-tree-canopy.html"
-    image:
-      x: "img/works/canopy.png"
-      _2x: "img/works/canopy.png"
-    is_even: true
+    - title: "Zagreb Tree Height Canopy Analysis - Urban Forest Assessment"
+      description: "An R-based analysis of Zagreb's urban trees using high-resolution canopy data from Meta/WRI. This project analyzes tree cover distribution across administrative districts, calculates urban cooling potential, and presents results in an interactive Leaflet map. The analysis reveals significant disparities in canopy coverage and provides insights into urban heat island mitigation potential."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Project"
+        URL: "https://andabaka.github.io/tree_canopy_height/zagreb-interactive-tree-canopy.html"
+      image:
+        x: "img/works/canopy.png"
+        _2x: "img/works/canopy.png"
+      is_even: true
 
-  - title: "Interactive Quarto Dashboard - Earthquakes in Croatia from 1990"
-    description: "This dashboard displays earthquake data for Croatia from 1990 to the present. The data is sourced from the USGS (United States Geological Survey) database, which is updated daily at 9:00 AM UTC. Dashboard allows filtering of data by date and magnitude, displays earthquakes on an interactive map, and provides detailed information in a tabular format. For the most accurate and up-to-date information on seismic activity in Croatia, it is recommended to consult local seismological services."
-    button:
-      icon: "icon-arrow-right"
-      btnText: "See Dashboard"
-      URL: "https://andabaka.github.io/earthquakes/earthquakes.html"
-    image:
-      x: "img/works/quakes.png"
-      _2x: "img/works/quakes.png"
-    is_even: false
+    - title: "Interactive Quarto Dashboard - Earthquakes in Croatia from 1990"
+      description: "This dashboard displays earthquake data for Croatia from 1990 to the present. The data is sourced from the USGS (United States Geological Survey) database, which is updated daily at 9:00 AM UTC. Dashboard allows filtering of data by date and magnitude, displays earthquakes on an interactive map, and provides detailed information in a tabular format. For the most accurate and up-to-date information on seismic activity in Croatia, it is recommended to consult local seismological services."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Dashboard"
+        URL: "https://andabaka.github.io/earthquakes/earthquakes.html"
+      image:
+        x: "img/works/quakes.png"
+        _2x: "img/works/quakes.png"
+      is_even: false
 
-  - title: "NetCDF Files in Forest Research"
-    description: "A comprehensive guide to working with NetCDF files in forest research using R. This tutorial covers everything from understanding NetCDF structure to practical applications with CRU climate data, including detailed code examples for data extraction, processing, and climate data interpolation techniques specifically designed for forest research applications."
-    button:
-      icon: "icon-arrow-right"
-      btnText: "See Project"
-      URL: "https://rpubs.com/andabaka/1264452"
-    image:
-      x: "img/works/netcdf.jpg"
-      _2x: "img/works/netcdf.jpg"
-    is_even: true
+    - title: "NetCDF Files in Forest Research"
+      description: "A comprehensive guide to working with NetCDF files in forest research using R. This tutorial covers everything from understanding NetCDF structure to practical applications with CRU climate data, including detailed code examples for data extraction, processing, and climate data interpolation techniques specifically designed for forest research applications."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Project"
+        URL: "https://rpubs.com/andabaka/1264452"
+      image:
+        x: "img/works/netcdf.jpg"
+        _2x: "img/works/netcdf.jpg"
+      is_even: true
 
-  - title: "Introduction to Google Earth Engine: A Powerful Tool for Modern Forest Science"
-    description: "Learn how to leverage Google Earth Engine for forest research through practical examples, from basic data access to advanced analysis using R and rgee package."
-    button:
-      icon: "icon-arrow-right"
-      btnText: "See Project"
-      URL: "https://rpubs.com/andabaka/1264684"
-    image:
-      x: "img/works/gee.jpg"
-      _2x: "img/works/gee.jpg"
-    is_even: false
+    - title: "Introduction to Google Earth Engine: A Powerful Tool for Modern Forest Science"
+      description: "Learn how to leverage Google Earth Engine for forest research through practical examples, from basic data access to advanced analysis using R and rgee package."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See Project"
+        URL: "https://rpubs.com/andabaka/1264684"
+      image:
+        x: "img/works/gee.jpg"
+        _2x: "img/works/gee.jpg"
+      is_even: false
 
 # testimonial
 testimonial:
