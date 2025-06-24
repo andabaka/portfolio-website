@@ -124,8 +124,8 @@ client_and_work:
         btnText: "See App"
         URL: "https://mandabaka.shinyapps.io/EU-Trees4F-app/"
       image:
-        x: "img/works/trees.png"
-        _2x: "img/works/trees.png"
+        x: "img/works/trees.jpg"
+        _2x: "img/works/trees.jpg"
       is_even: false
 
     - title: "Zagreb Tree Height Canopy Analysis - Urban Forest Assessment"
@@ -135,8 +135,8 @@ client_and_work:
         btnText: "See Project"
         URL: "https://andabaka.github.io/tree_canopy_height/zagreb-interactive-tree-canopy.html"
       image:
-        x: "img/works/canopy.png"
-        _2x: "img/works/canopy.png"
+        x: "img/works/canopy.jpg"
+        _2x: "img/works/canopy.jpg"
       is_even: true
 
     - title: "Interactive Quarto Dashboard - Earthquakes in Croatia from 1990"
