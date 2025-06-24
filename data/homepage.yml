@@ -5,7 +5,7 @@ showcase:
   enable: true
   title: "Hi, I'm Marijana"
   subtitle: "Forestry Data Scientist"
-  description: "I specialize in transforming complex forest and environmental datasets into scientific insights through advanced statistical analysis and R programming. With a Ph.D. in Forestry and 7+ years of research experience, I help institutions extract maximum value from their data while maintaining scientific rigor. Through <a href='https://andalytics.com/en/' target='_blank'>Andalytics</a>, I bridge the gap between sophisticated research questions and analytical solutions."
+  description: "I specialize in transforming complex forest and environmental datasets into scientific insights through advanced statistical analysis and R programming. With a Ph.D. in Forestry and 7+ years of research experience, I help institutions extract maximum value from their data. Through <a href='https://andalytics.com/en/' target='_blank'>Andalytics</a>, I bridge the gap between sophisticated research questions and analytical solutions."
   image:
     x: "img/showcase/marijana1.jpg"
     _2x: "img/showcase/marijana1.jpg"
@@ -28,7 +28,7 @@ showcase:
       URL: "https://github.com/andabaka"
     - icon: "fas fa-globe"
       icon_pack: "fas"  # ili "fas"
-      URL: "https://andalytics.com/en/"
+      URL: "https://andalytics.com"
 
 # about
 about:
@@ -61,7 +61,7 @@ experience:
     URL: "#"
   items:
     - title: "Founder"
-      company: "Andalytics, Data Analysis Services <a target='_blank' href='https://andalytics.com/en/'>https://andalytics.com/en/</a>"
+      company: "Andalytics, Data Processing Services <a target='_blank' href='https://andalytics.com/en/'>https://andalytics.com/en/</a>"
       duration: "Oct 2023 - Present"
     - title: "Postdoctoral Associate"
       company: "Faculty of Forestry and Wood Technology"
@@ -136,15 +136,15 @@ client_and_work:
         x: "img/works/gee.jpg"
         _2x: "img/works/gee.jpg"
       is_even: true
-    - title: "Shiny Pollen App - explore pollen levels for any location and manage your allergies"
-      description: "Login credentials: user2, pass2. Pollen App is a comprehensive allergy management tool designed to help users monitor pollen levels, track their allergy symptoms, and make informed decisions about their outdoor activities. This Shiny application provides real-time and forecasted pollen data for locations worldwide, offering personalized health recommendations based on current pollen levels."
+    - title: "EU-Trees4F Interactive App - European Tree Species Climate Suitability Visualization"
+      description: "An interactive Shiny application for visualizing European tree species climate suitability based on the EU-Trees4F dataset. Explore climate projections across different time periods and scenarios, compare habitat suitability maps, and analyze country-level statistics for 7 major European tree species including European beech, oak species, silver fir, and Norway spruce."
       button:
         icon: "icon-arrow-right"
         btnText: "See App"
-        URL: "https://mandabaka.shinyapps.io/pollen_app/"
+        URL: "https://mandabaka.shinyapps.io/EU-Trees4F-app/"
       image:
-        x: "img/works/pollen.png"
-        _2x: "img/works/pollen.png"
+        x: "img/works/trees.jpg"
+        _2x: "img/works/trees.jpg"
       is_even: true
     - title: "Interactive Quarto Dasboard - Earthquakes in Croatia from 1990"
       description: "This dashboard displays earthquake data for Croatia from 1990 to the present. The data is sourced from the USGS (United States Geological Survey) database, which is updated daily at 9:00 AM UTC. Dashboard allows filtering of data by date and magnitude, displays earthquakes on an interactive map, and provides detailed information in a tabular format. For the most accurate and up-to-date information on seismic activity in Croatia, it is recommended to consult local seismological services."
